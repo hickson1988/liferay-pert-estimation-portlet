@@ -1,0 +1,4 @@
+.settings/
+.project
+.classpath
+docroot/WEB-INF/classes/

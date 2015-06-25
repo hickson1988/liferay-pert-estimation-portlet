@@ -1,0 +1,21 @@
+.EstimationCalculator-portlet .lfr-autorow-controls{
+	position: relative;	
+}
+
+.EstimationCalculator-portlet th{
+	padding-left: 10px;
+}
+
+
+.EstimationCalculator-portlet .tableData {
+    text-align: center;
+    width: 138px;
+}
+
+.EstimationCalculator-portlet td {
+    padding: 10px
+}
+
+.EstimationCalculator-portlet .aui-toolbar-content{
+	margin-top: 10px;
+}
